@@ -205,5 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-texts/
-partial_movie_file_list.txt
+.zed/
+partial_movie_files/
+partial_scene_files/
+partial_thrubox_files/
+*.tex
